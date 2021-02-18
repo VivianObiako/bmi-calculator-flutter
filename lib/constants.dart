@@ -20,3 +20,28 @@ const kNumberText = TextStyle(
   fontSize: 50.0,
   fontWeight: FontWeight.w900,
 );
+
+const kBottomTextStyle = TextStyle(
+  fontSize: 25.0,
+  fontWeight: FontWeight.bold,
+);
+
+const kResultTextStyle = TextStyle(
+  fontSize: 50.0,
+  fontWeight: FontWeight.bold,
+);
+
+const kResultingWeightStyle = TextStyle(
+  fontSize: 22.0,
+  color: Color(0XFF24D876),
+  fontWeight: FontWeight.bold,
+);
+
+const kBmiStyle = TextStyle(
+  fontSize: 100.0,
+  fontWeight: FontWeight.bold,
+);
+
+const kResultingAdviceStyle = TextStyle(
+  fontSize: 22.0,
+);
